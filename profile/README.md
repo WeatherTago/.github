@@ -46,7 +46,7 @@
 ## 🛠️ Technology Stack
 
 ### Frontend
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=flat)](https://reactnative.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat)](https://www.typescriptlang.org/)
 [![Emotion](https://img.shields.io/badge/Emotion-DB7093?logo=emotion&logoColor=white&style=flat)](https://emotion.sh/docs/introduction)
 [![Context API](https://img.shields.io/badge/Context_API-61DAFB?logo=react&logoColor=white&style=flat)](https://reactjs.org/docs/context.html)
