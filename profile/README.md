@@ -34,10 +34,10 @@
 
 <h3>📸 메인 화면</h3>
 <p align="flex-start">
-  <img src="https://github.com/user-attachments/assets/f6258c63-3b1b-4b15-afd1-888a2270caa3" width="230" />
-  <img src="https://github.com/user-attachments/assets/8e75e03a-8395-43d7-8416-efe5a7b65210" width="230" />
-  <img src="https://github.com/user-attachments/assets/04c88f86-6c04-4ed2-b62f-55ca185918bf" width="230" />
-  <img src="https://github.com/user-attachments/assets/23d08a8d-32c0-4603-bf26-fbc76d4dc303" width="230" />
+  <img src="https://github.com/user-attachments/assets/f6258c63-3b1b-4b15-afd1-888a2270caa3" width="200" />
+  <img src="https://github.com/user-attachments/assets/8e75e03a-8395-43d7-8416-efe5a7b65210" width="200" />
+  <img src="https://github.com/user-attachments/assets/04c88f86-6c04-4ed2-b62f-55ca185918bf" width="200" />
+  <img src="https://github.com/user-attachments/assets/23d08a8d-32c0-4603-bf26-fbc76d4dc303" width="200" />
 </p>
 
 
