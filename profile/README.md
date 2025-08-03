@@ -97,8 +97,8 @@
 ### Data Analysis
 |  **김수빈**  |  **조윤아**  |
 | :----------: | :----------: |
-| <img src="https://avatars.githubusercontent.com/u/212580518?v=4" width="150" /> | <img src="" width="150" />  |
-| [@amasubin](https://github.com/amasubin) | [@]() |
+| <img src="https://avatars.githubusercontent.com/u/212580518?v=4" width="150" /> | <img src="https://github.com/Jyunao.png" width="150" />  |
+| [@amasubin](https://github.com/amasubin) | [@Jyunao](https://github.com/Jyunao) |
 
 ### Deep Learning
 |  **윤정**  |  **최선호**  |
