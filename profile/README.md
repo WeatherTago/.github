@@ -46,8 +46,15 @@
 ## 🛠️ Technology Stack
 
 ### Frontend
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat)](https://reactjs.org/) [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat)](https://tailwindcss.com/) [![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-0EA5E9?logo=React&logoColor=white&style=flat)](https://github.com/shadcn/ui) [![AWS Amplify](https://img.shields.io/badge/-AWS_Amplify-FF9900?logo=AWS-Amplify&logoColor=white&style=flat)](https://aws.amazon.com/amplify/)
-[![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=Vite&logoColor=white&style=flat)](https://vitejs.dev/) [![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat)](https://www.npmjs.com/)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat)](https://www.typescriptlang.org/)
+[![Emotion](https://img.shields.io/badge/Emotion-DB7093?logo=emotion&logoColor=white&style=flat)](https://emotion.sh/docs/introduction)
+[![Context API](https://img.shields.io/badge/Context_API-61DAFB?logo=react&logoColor=white&style=flat)](https://reactjs.org/docs/context.html)
+[![Expo Router](https://img.shields.io/badge/Expo_Router-000020?logo=expo&logoColor=white&style=flat)](https://expo.github.io/router/docs)
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white&style=flat)](https://axios-http.com/)
+[![AsyncStorage](https://img.shields.io/badge/AsyncStorage-6DB33F?logo=react&logoColor=white&style=flat)](https://react-native-async-storage.github.io/async-storage/docs/install/)
+[![SecureStore](https://img.shields.io/badge/SecureStore-003366?logo=expo&logoColor=white&style=flat)](https://docs.expo.dev/versions/latest/sdk/securestore/)
+[![Kakao SDK](https://img.shields.io/badge/@react--native--kakao/core-FEE500?logo=kakaotalk&logoColor=000000&style=flat)](https://www.npmjs.com/package/@react-native-kakao/core)
 <br>
 ### Backend
 <div>
