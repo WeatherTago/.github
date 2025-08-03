@@ -1,6 +1,7 @@
 # 날씨에 따라 쾌적하게 지하철 타기, 웨더타고 
 
-<img width="3600" height="2400" alt="image" src="https://github.com/user-attachments/assets/dc471387-8b0f-4def-9d46-b033ff2dbb23" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/dc471387-8b0f-4def-9d46-b033ff2dbb23" />
+
 >TAVE 15기 연합 프로젝트 <대상🏆> 수상
 
 웨더타고는 교통약자를 위한 기상 현황에 따른 지하철 혼잡도 예측 및 편의시설 제공 서비스입니다.
