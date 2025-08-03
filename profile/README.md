@@ -37,7 +37,31 @@
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=Vite&logoColor=white&style=flat)](https://vitejs.dev/) [![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat)](https://www.npmjs.com/)
 <br>
 ### Backend
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-social&logo=Spring Boot&logoColor=white">  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-social&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-social&logo=Databricks&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-social&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/OAuth 2.0-000000?style=for-the-social&logo=OAuth&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-social&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-social&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/AWS LoadBalancer-FF9900?style=for-the-social&logo=awselasticloadbalancing&logoColor=white"> <img src="https://img.shields.io/badge/AWS Route 53-8C4FFF?style=for-the-social&logo=amazonroute53&logoColor=white"> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-social&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/AWS Certificate Manager-DD344C?style=for-the-social&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/AWS IAM-DD344C?style=for-the-social&logo=amazoniam&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-social&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-social&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-6DB33F?style=for-the-social&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ-000000.svg?logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/ERDCloud-000000?style=for-the-social&logo=cloud&logoColor=white"> 
+<div>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
+<img src="https://img.shields.io/badge/Jsoup-6DB33F?style=flat-square&logo=jsoup&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/OAuth2.0-000000?style=flat-square&logoColor=white">
+</div>
+<div>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white">
+</div>
+<div>
+<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/AWS ALB-FF9900?style=flat-square&logo=awselasticloadbalancing&logoColor=white">
+<img src="https://img.shields.io/badge/AWS CloudFront-FF9900?style=flat-square&logo=amazoncloudfront&logoColor=white">
+<img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
+<img src="https://img.shields.io/badge/AWS ElastiCache-C925D1?style=flat-square&logo=amazonelasticache&logoColor=white">
+<img src="https://img.shields.io/badge/AWS Route53-FF9900?style=flat-square&logo=amazonroute53&logoColor=white">
+<img src="https://img.shields.io/badge/AWS ACM-FF9900?style=flat-square&logo=awscertificatemanager&logoColor=white">
+</div>
 <br>
 ### Others
 <img src="https://img.shields.io/badge/ Swagger-6DB33F?style=for-the-social&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/ Notion-000000?style=for-the-social&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/ Discord-5865F2?style=for-the-social&logo=discord&logoColor=white"> 
