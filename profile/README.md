@@ -76,6 +76,7 @@
 <img src="https://img.shields.io/badge/AWS ACM-FF9900?style=flat-square&logo=awscertificatemanager&logoColor=white">
 </div>
 <br>
+
 ### Others
 <img src="https://img.shields.io/badge/ Swagger-6DB33F?style=for-the-social&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/ Notion-000000?style=for-the-social&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/ Discord-5865F2?style=for-the-social&logo=discord&logoColor=white"> 
 
