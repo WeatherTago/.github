@@ -58,29 +58,29 @@
 <br>
 ### Backend
 <div>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=databricks&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
-<img src="https://img.shields.io/badge/Jsoup-6DB33F?style=flat-square&logo=jsoup&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white">
-<img src="https://img.shields.io/badge/OAuth2.0-000000?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white">
+<img src="https://img.shields.io/badge/Jsoup-6DB33F?style=flat&logo=jsoup&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/OAuth2.0-000000?style=flat&logoColor=white">
 </div>
 <div>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white">
 </div>
 <div>
-<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/AWS ALB-FF9900?style=flat-square&logo=awselasticloadbalancing&logoColor=white">
-<img src="https://img.shields.io/badge/AWS CloudFront-FF9900?style=flat-square&logo=amazoncloudfront&logoColor=white">
-<img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
-<img src="https://img.shields.io/badge/AWS ElastiCache-C925D1?style=flat-square&logo=amazonelasticache&logoColor=white">
-<img src="https://img.shields.io/badge/AWS Route53-FF9900?style=flat-square&logo=amazonroute53&logoColor=white">
-<img src="https://img.shields.io/badge/AWS ACM-FF9900?style=flat-square&logo=awscertificatemanager&logoColor=white">
+<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/AWS ALB-FF9900?style=flat&logo=awselasticloadbalancing&logoColor=white">
+<img src="https://img.shields.io/badge/AWS CloudFront-FF9900?style=flat&logo=amazoncloudfront&logoColor=white">
+<img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat&logo=amazonrds&logoColor=white">
+<img src="https://img.shields.io/badge/AWS ElastiCache-C925D1?style=flat&logo=amazonelasticache&logoColor=white">
+<img src="https://img.shields.io/badge/AWS Route53-FF9900?style=flat&logo=amazonroute53&logoColor=white">
+<img src="https://img.shields.io/badge/AWS ACM-FF9900?style=flat&logo=awscertificatemanager&logoColor=white">
 </div>
 <br>
 
