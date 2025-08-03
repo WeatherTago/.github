@@ -47,21 +47,27 @@
 ## 👥 Team Member
 
 ### Frontend
-|  **전지원**  |  **이연서**  |
+|  **김민주**  |  **박진주**  |
 | :----------: | :----------: |
-| <img src="https://github.com/user-attachments/assets/3fff8e3b-3e2c-4c00-9a1e-c92c25eb493e" width="150"/> | <img src="https://github.com/user-attachments/assets/1f35c4bb-b13a-41c5-ac87-e1eb7586d326" width="150"/> |
-| [@jiwonly](https://github.com/jiwonly) | [@lee-yeonseo](https://github.com/lee-yeonseo) |
+| <img src="https://avatars.githubusercontent.com/u/195899220?v=4" width="150"/> | <img src="https://avatars.githubusercontent.com/u/157488644?v=4" width="150"/> |
+| [@kimmingju](https://github.com/kimmingju) | [@jinj00oo](https://github.com/jinj00oo) |
 
 ### Backend
-| 장경준                       | 김서연                       | 임동규                       |
+| 박유정                       | 이원준                       | 전지원                       |
 |:------------------------------:|:------------------------------:|:------------------------------:|
-|  <img src="https://github.com/user-attachments/assets/d92de067-3d48-4e72-9eba-98e8ac012247" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/c58c123a-47f9-4b94-bdd4-5be70ac5eb6f" width="150" height="150">| <img src="https://github.com/user-attachments/assets/57c1b666-5cab-4016-9173-3e140458120b" width="150" height="150">|
-| [@GyeongJoon](https://github.com/GyeongJoon) | [@seoyeon83](https://github.com/seoyeon83) | [@LAICME](https://github.com/LAICME) |
+|  <img src="https://avatars.githubusercontent.com/u/74693824?v=4" width="150" height="150"> | <img src="https://avatars.githubusercontent.com/u/202200191?v=4" width="150" height="150">| <img src="https://avatars.githubusercontent.com/u/124144606?v=4" width="150" height="150">|
+| [@yujeong430](https://github.com/yujeong430) | [@wonjun-lee-fcwj245](https://github.com/wonjun-lee-fcwj245) | [@jiwonly](https://github.com/jiwonly) |
 
 ### Data Analysis
-|  **박준우**  |  **정유빈**  |
+|  **김수빈**  |  **조윤아**  |
 | :----------: | :----------: |
-| <img src="https://github.com/user-attachments/assets/ffc50be8-f57c-4d77-afa0-60dca693012b" width="150" /> | <img src="https://github.com/user-attachments/assets/82142e36-480f-4a6f-ac1a-fe29d7314811" width="150" />  |
-| [@cire21st](https://github.com/cire21st) | [@yuubinj](https://github.com/yuubinj) |
+| <img src="https://avatars.githubusercontent.com/u/212580518?v=4" width="150" /> | <img src="" width="150" />  |
+| [@amasubin](https://github.com/amasubin) | [@]() |
+
+### Deep Learning
+|  **윤정**  |  **최선호**  |
+| :----------: | :----------: |
+| <img src="https://avatars.githubusercontent.com/u/114855235?v=4" width="150" /> | <img src="https://avatars.githubusercontent.com/u/146871345?v=4" width="150" />  |
+| [@jeong1012](https://github.com/jeong1012) | [@smthgtoprve](https://github.com/smthgtoprve) |
 <br>
 
